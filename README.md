@@ -14,7 +14,7 @@
 - 👨‍💻  As a Computer Science student, I’m always diving into new technologies and refining my skills, especially in JavaScript, ReactJS, and NodeJS.
 - 💬 Feel free to ask me about any front-end development topics or best practices in web design—I'm always happy to share.
 - ☕ Fun Fact: I’m a coffee enthusiast! My perfect day revolves around a great cup of coffee to kickstart the morning and unwind in the evening.
-- 🌐 Take a look at my portfolio at ifhmy.com to explore the projects I’ve been working on!
+- 🌐 Take a look at my portfolio at https://ifhmy.com to explore the projects I’ve been working on!
 
 ### Connect with Me :
 
