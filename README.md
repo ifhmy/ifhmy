@@ -10,7 +10,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏫 I’m a Front-End Student at Almadrsa, passionate about creating engaging and interactive web experiences.
+- 🏫 I’m a Front-End Student , passionate about creating engaging and interactive web experiences.
 - 👨‍💻  As a Computer Science student, I’m always diving into new technologies and refining my skills, especially in JavaScript, ReactJS, and NodeJS.
 - 💬 Feel free to ask me about any front-end development topics or best practices in web design—I'm always happy to share.
 - ☕ Fun Fact: I’m a coffee enthusiast! My perfect day revolves around a great cup of coffee to kickstart the morning and unwind in the evening.
